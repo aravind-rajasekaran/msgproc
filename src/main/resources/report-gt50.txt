@@ -1,0 +1,54 @@
+apple at 10p
+orange at 20p
+20 sales of apples at 10p each
+Add 20p apples
+30 sales of oranges at 20p each
+Subtract 1p oranges
+doll at 30p
+add 1p dolls
+30 sales of dolls at 40p each
+Multiply 2p apples
+apple at 10p
+orange at 20p
+20 sales of apples at 10p each
+Add 20p apples
+30 sales of oranges at 20p each
+Subtract 1p oranges
+doll at 30p
+add 1p dolls
+30 sales of dolls at 40p each
+Multiply 2p apples
+apple at 10p
+orange at 20p
+20 sales of apples at 10p each
+Add 20p apples
+30 sales of oranges at 20p each
+Subtract 2p oranges
+doll at 30p
+add 1p dolls
+30 sales of dolls at 40p each
+Multiply 2p apples
+apple at 10p
+orange at 20p
+20 sales of apples at 10p each
+Add 20p apples
+30 sales of oranges at 20p each
+Subtract 1p oranges
+doll at 30p
+add 1p dolls
+30 sales of dolls at 40p each
+Multiply 2p apples
+apple at 10p
+orange at 20p
+20 sales of apples at 10p each
+Add 20p apples
+30 sales of oranges at 20p each
+Subtract 0.5p oranges
+doll at 30p
+add 1p dolls
+30 sales of dolls at 40p each
+Multiply 2p apples
+doll at 30p
+add 1p dolls
+30 sales of dolls at 40p each
+Multiply 2p apples

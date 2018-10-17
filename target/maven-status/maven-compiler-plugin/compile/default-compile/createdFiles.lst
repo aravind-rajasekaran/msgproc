@@ -1,0 +1,14 @@
+com\jpmc\msgproc\maven\app\App.class
+com\jpmc\msgproc\util\Constants.class
+com\jpmc\msgproc\exception\SystemException.class
+com\jpmc\msgproc\processor\MessageProcessorImpl.class
+com\jpmc\msgproc\receiver\MessageReceiver.class
+com\jpmc\msgproc\sender\MessageSender.class
+com\jpmc\msgproc\dto\AdjustmentDO.class
+com\jpmc\msgproc\receiver\MessageReceiverImpl.class
+com\jpmc\msgproc\util\MessageType.class
+com\jpmc\msgproc\dto\ProductDO.class
+com\jpmc\msgproc\generator\ReportGeneratorImpl.class
+com\jpmc\msgproc\processor\MessageProcessor.class
+com\jpmc\msgproc\sender\MessageSenderImpl.class
+com\jpmc\msgproc\generator\ReportGenerator.class
